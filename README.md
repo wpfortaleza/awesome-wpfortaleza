@@ -11,3 +11,7 @@
 - [Enem Action](https://www.enemaction.com.br/), Allef Bruno - Convertte Agência Digital
 
 - [Vonixx](https://www.vonixx.com.br), Joel Maia
+
+- [Faculdade Apoena Macapá](http://www.faculdadeapoena.com.br/macapa), Joel Maia - Atratis Digital
+
+- [ADN Concursos](http://www.adnconcursos.com.br/), Kleber Santos - Atratis Digital
