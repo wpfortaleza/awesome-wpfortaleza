@@ -1,3 +1,3 @@
 # awesome wpfortaleza
 
-> Com um imenso orgulho, listamos abaixo os projetos de nosso membros:
+> Com um imenso orgulho, listamos abaixo os projetos desenvolvidos por nosso membros:
