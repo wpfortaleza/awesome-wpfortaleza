@@ -9,3 +9,5 @@
 - [I9ME - Agencia Digital](http://www.i9me.com.br), Diogo Soares - I9ME Web & Design
 
 - [Enem Action](https://www.enemaction.com.br/), Allef Bruno - Convertte Agência Digital
+
+- [Faculdade Apoena Macapá](http://www.faculdadeapoena.com.br/macapa), Joel Maia - Atratis Digital
