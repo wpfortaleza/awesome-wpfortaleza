@@ -7,7 +7,6 @@ Siga os passos abaixos e contribua para listarmos os projetos mais bacanas dos m
 ## O que deve ser feito
 
 1. Abra uma branch com seu nome;
-2. Edite o arquivo README.md adicionando as seguintes informações abaixo do último registro: 
-`Nome do Projeto - URL do projeto, Seu nome`;
+2. Edite o arquivo README.md adicionando as seguintes informações abaixo do último registro: `[Titulo do Projeto](URL do projeto), Seu nome`;
 3. Faça um PR para a branch `master`;
 4. Se tudo estiver certo, mergearemos seu PR! :)
