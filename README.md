@@ -15,3 +15,5 @@
 - [Faculdade Apoena Macapá](http://www.faculdadeapoena.com.br/macapa), Joel Maia - Atratis Digital
 
 - [ADN Concursos](http://www.adnconcursos.com.br/), Kleber Santos - Atratis Digital
+
+- [WordPress Query Reference](https://github.com/cjpatoilo/wordpress-query-reference/), [CJ Patoilo](https://github.com/cjpatoilo)
